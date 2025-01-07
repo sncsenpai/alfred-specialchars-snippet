@@ -23,4 +23,4 @@ Some examples:
 - `::arrow_dbl_left_right` would give you `↔`
 
 [1]: https://alfredapp.com "Get the Alfred app"
-[2]: releases/ "Gimme the snippets!"
+[2]: https://github.com/sncsenpai/alfred-specialchars-snippet/releases "Gimme the snippets!"
