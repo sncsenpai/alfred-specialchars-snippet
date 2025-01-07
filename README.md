@@ -18,9 +18,9 @@ The snippets run with the prefix of `::`, followed by a short description, to mi
 
 Some examples:
 
-* `::divide` would give you `÷`
-* `::degree_sign` would give you `º`
-* `::arrow_dbl_left_right` would give you `↔`
+- `::divide` would give you `÷`
+- `::degree_sign` would give you `º`
+- `::arrow_dbl_left_right` would give you `↔`
 
 [1]: https://alfredapp.com "Get the Alfred app"
-[2]: https://github.com/sncsenpai/alfred-fc-snippets/releases](https://github.com/sncsenpai/alfred-specialchars-snippet/releases "Gimme the snippets!"
+[2]: /releases "Gimme the snippets!"
